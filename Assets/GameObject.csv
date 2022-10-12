@@ -1,0 +1,7 @@
+Index, Name, Parent, PositionX, PositionY, PositionZ, RotationX, RotaionY, RotaionZ, ScaleX, ScaleY, ScaleZ, Resources
+1,Building,X,0,0,0,0,0,0,1,1,1,Building
+2,Cube_1,Building,-5,1,1,0,0,0,1,1,1,Building
+3,Cube_1_1,Cube_1,-4,1,1,0,0,0,1,1,1,Building
+4,Cube_2,Building,-5,2,2,0,0,0,1,1,1,Building
+5,Cube_2_1,Cube_2,-4,2,2,0,0,0,1,1,1,Building
+6,Cube_2_1_1,Cube_2_1,-3,2,2,0,0,0,1,1,1,Building
