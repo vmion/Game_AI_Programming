@@ -1,0 +1,3 @@
+Z:/github/Game_AI_Programming/Assets/Editor
+Z:/github/Game_AI_Programming/Assets/Scenes
+Z:/github/Game_AI_Programming/Assets/Script
