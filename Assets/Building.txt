@@ -1,0 +1,4 @@
+Index, Name, PosX, PosY, PosZ, RotX, RotY, RotZ, ScaleX, ScaleY, ScaleZ
+1,Cube_2,-3,0,2
+2,Cube_1,3,-1,-4
+3,Building3,-1.855958,-1,-1.804259

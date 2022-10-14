@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Monster
   - Building
+  - Terrain
   layers:
   - Default
   - TransparentFX

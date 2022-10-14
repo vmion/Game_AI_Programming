@@ -1,0 +1,3 @@
+Index, Name, PosX, PosY, PosZ, RotX, RotY, RotZ, ScaleX, ScaleY, ScaleZ, Tag
+1,Cube,0,-2,0,Terrain
+2,Terrain1,0.4161823,-1,2.498764,Terrain
